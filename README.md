@@ -43,3 +43,15 @@ I regularly update this repository with new solutions as I continue practicing.
 If you find this repository helpful, feel free to star it and explore the solutions.
 
 Happy Coding! 🚀
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/Anushkamini/Leetcode/tree/master/0066-plus-one) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/Anushkamini/Leetcode/tree/master/0066-plus-one) |
+<!---LeetCode Topics End-->
