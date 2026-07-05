@@ -58,6 +58,7 @@ Happy Coding! 🚀
 | [0066-plus-one](https://github.com/Anushkamini/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Anushkamini/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Anushkamini/Leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Anushkamini/Leetcode/tree/master/0070-climbing-stairs) |
 ## String
 |  |
 | ------- |
@@ -91,4 +92,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Anushkamini/Leetcode/tree/master/0069-sqrtx) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Anushkamini/Leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Anushkamini/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
