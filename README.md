@@ -51,6 +51,7 @@ Happy Coding! 🚀
 | ------- |
 | [0001-two-sum](https://github.com/Anushkamini/Leetcode/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/Anushkamini/Leetcode/tree/master/0066-plus-one) |
+| [1301-number-of-paths-with-max-score](https://github.com/Anushkamini/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 ## Math
 |  |
 | ------- |
@@ -96,8 +97,13 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Anushkamini/Leetcode/tree/master/0070-climbing-stairs) |
+| [1301-number-of-paths-with-max-score](https://github.com/Anushkamini/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Anushkamini/Leetcode/tree/master/0070-climbing-stairs) |
+## Matrix
+|  |
+| ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/Anushkamini/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 <!---LeetCode Topics End-->
