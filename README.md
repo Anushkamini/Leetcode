@@ -49,6 +49,7 @@ Happy Coding! 🚀
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Anushkamini/Leetcode/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/Anushkamini/Leetcode/tree/master/0066-plus-one) |
 ## Math
 |  |
@@ -67,4 +68,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Anushkamini/Leetcode/tree/master/0067-add-binary) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Anushkamini/Leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
