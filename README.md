@@ -57,6 +57,7 @@ Happy Coding! 🚀
 | [0002-add-two-numbers](https://github.com/Anushkamini/Leetcode/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/Anushkamini/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Anushkamini/Leetcode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/Anushkamini/Leetcode/tree/master/0069-sqrtx) |
 ## String
 |  |
 | ------- |
@@ -86,4 +87,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Anushkamini/Leetcode/tree/master/0020-valid-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Anushkamini/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
