@@ -60,6 +60,7 @@ Happy Coding! 🚀
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Anushkamini/Leetcode/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/Anushkamini/Leetcode/tree/master/0067-add-binary) |
 ## Bit Manipulation
 |  |
@@ -81,4 +82,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Anushkamini/Leetcode/tree/master/0002-add-two-numbers) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Anushkamini/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
