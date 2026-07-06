@@ -51,6 +51,7 @@ Happy Coding! 🚀
 | ------- |
 | [0001-two-sum](https://github.com/Anushkamini/Leetcode/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/Anushkamini/Leetcode/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/Anushkamini/Leetcode/tree/master/0088-merge-sorted-array) |
 | [1301-number-of-paths-with-max-score](https://github.com/Anushkamini/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 ## Math
 |  |
@@ -107,4 +108,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [1301-number-of-paths-with-max-score](https://github.com/Anushkamini/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Anushkamini/Leetcode/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Anushkamini/Leetcode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
