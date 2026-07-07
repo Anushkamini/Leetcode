@@ -63,6 +63,7 @@ Happy Coding! 🚀
 | [0069-sqrtx](https://github.com/Anushkamini/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Anushkamini/Leetcode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Anushkamini/Leetcode/tree/master/0168-excel-sheet-column-title) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Anushkamini/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## String
 |  |
 | ------- |
