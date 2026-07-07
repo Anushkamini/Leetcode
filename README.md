@@ -69,6 +69,7 @@ Happy Coding! 🚀
 | ------- |
 | [0020-valid-parentheses](https://github.com/Anushkamini/Leetcode/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/Anushkamini/Leetcode/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/Anushkamini/Leetcode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Anushkamini/Leetcode/tree/master/0168-excel-sheet-column-title) |
 ## Bit Manipulation
 |  |
@@ -120,6 +121,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Anushkamini/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Anushkamini/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Anushkamini/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Anushkamini/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 ## Sorting
