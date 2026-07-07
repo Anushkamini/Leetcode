@@ -52,6 +52,7 @@ Happy Coding! 🚀
 | [0001-two-sum](https://github.com/Anushkamini/Leetcode/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/Anushkamini/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Anushkamini/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/Anushkamini/Leetcode/tree/master/0136-single-number) |
 | [1288-remove-covered-intervals](https://github.com/Anushkamini/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Anushkamini/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 ## Math
@@ -75,6 +76,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Anushkamini/Leetcode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/Anushkamini/Leetcode/tree/master/0136-single-number) |
 ## Simulation
 |  |
 | ------- |
