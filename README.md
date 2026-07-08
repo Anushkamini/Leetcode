@@ -67,6 +67,7 @@ Happy Coding! 🚀
 | [0168-excel-sheet-column-title](https://github.com/Anushkamini/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Anushkamini/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Anushkamini/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Anushkamini/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String
 |  |
 | ------- |
@@ -75,6 +76,7 @@ Happy Coding! 🚀
 | [0125-valid-palindrome](https://github.com/Anushkamini/Leetcode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Anushkamini/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Anushkamini/Leetcode/tree/master/0171-excel-sheet-column-number) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Anushkamini/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -149,4 +151,8 @@ Happy Coding! 🚀
 | ------- |
 | [0175-combine-two-tables](https://github.com/Anushkamini/Leetcode/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Anushkamini/Leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
+## Prefix Sum
+|  |
+| ------- |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Anushkamini/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 <!---LeetCode Topics End-->
