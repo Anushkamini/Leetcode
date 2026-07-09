@@ -110,6 +110,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Anushkamini/Leetcode/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Anushkamini/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 ## Binary Search
 |  |
 | ------- |
@@ -166,4 +167,16 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Anushkamini/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Anushkamini/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Anushkamini/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Anushkamini/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
