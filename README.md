@@ -56,6 +56,7 @@ Happy Coding! 🚀
 | [0169-majority-element](https://github.com/Anushkamini/Leetcode/tree/master/0169-majority-element) |
 | [1288-remove-covered-intervals](https://github.com/Anushkamini/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Anushkamini/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Anushkamini/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Math
 |  |
 | ------- |
@@ -93,6 +94,7 @@ Happy Coding! 🚀
 | [0141-linked-list-cycle](https://github.com/Anushkamini/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Anushkamini/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Anushkamini/Leetcode/tree/master/0169-majority-element) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Anushkamini/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Linked List
 |  |
 | ------- |
@@ -112,6 +114,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Anushkamini/Leetcode/tree/master/0069-sqrtx) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Anushkamini/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -155,4 +158,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Anushkamini/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Union-Find
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Anushkamini/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Graph Theory
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Anushkamini/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
