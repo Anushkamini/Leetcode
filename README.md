@@ -57,6 +57,7 @@ Happy Coding! 🚀
 | [1288-remove-covered-intervals](https://github.com/Anushkamini/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Anushkamini/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Anushkamini/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anushkamini/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Math
 |  |
 | ------- |
@@ -83,6 +84,7 @@ Happy Coding! 🚀
 | ------- |
 | [0067-add-binary](https://github.com/Anushkamini/Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Anushkamini/Leetcode/tree/master/0136-single-number) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anushkamini/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -117,11 +119,13 @@ Happy Coding! 🚀
 | ------- |
 | [0069-sqrtx](https://github.com/Anushkamini/Leetcode/tree/master/0069-sqrtx) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Anushkamini/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anushkamini/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Anushkamini/Leetcode/tree/master/0070-climbing-stairs) |
 | [1301-number-of-paths-with-max-score](https://github.com/Anushkamini/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anushkamini/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Memoization
 |  |
 | ------- |
@@ -137,12 +141,14 @@ Happy Coding! 🚀
 | [0125-valid-palindrome](https://github.com/Anushkamini/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Anushkamini/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Anushkamini/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anushkamini/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Anushkamini/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Anushkamini/Leetcode/tree/master/0169-majority-element) |
 | [1288-remove-covered-intervals](https://github.com/Anushkamini/Leetcode/tree/master/1288-remove-covered-intervals) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anushkamini/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -168,6 +174,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Anushkamini/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anushkamini/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Tree
 |  |
 | ------- |
@@ -190,4 +197,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Anushkamini/Leetcode/tree/master/0100-same-tree) |
+## Greedy
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anushkamini/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->
