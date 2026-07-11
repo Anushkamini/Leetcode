@@ -169,10 +169,12 @@ Happy Coding! 🚀
 ## Union-Find
 |  |
 | ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/Anushkamini/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Anushkamini/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
 |  |
 | ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/Anushkamini/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Anushkamini/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anushkamini/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Tree
@@ -187,6 +189,7 @@ Happy Coding! 🚀
 | [0094-binary-tree-inorder-traversal](https://github.com/Anushkamini/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Anushkamini/Leetcode/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Anushkamini/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [2685-count-the-number-of-complete-components](https://github.com/Anushkamini/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
 | ------- |
@@ -197,6 +200,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Anushkamini/Leetcode/tree/master/0100-same-tree) |
+| [2685-count-the-number-of-complete-components](https://github.com/Anushkamini/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Greedy
 |  |
 | ------- |
