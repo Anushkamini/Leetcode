@@ -54,6 +54,7 @@ Happy Coding! 🚀
 | [0088-merge-sorted-array](https://github.com/Anushkamini/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Anushkamini/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Anushkamini/Leetcode/tree/master/0169-majority-element) |
+| [1260-shift-2d-grid](https://github.com/Anushkamini/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Anushkamini/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Anushkamini/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Anushkamini/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -100,6 +101,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Anushkamini/Leetcode/tree/master/0067-add-binary) |
+| [1260-shift-2d-grid](https://github.com/Anushkamini/Leetcode/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Anushkamini/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -150,6 +152,7 @@ Happy Coding! 🚀
 ## Matrix
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Anushkamini/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Anushkamini/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 ## Two Pointers
 |  |
