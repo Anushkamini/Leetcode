@@ -242,6 +242,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/Anushkamini/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/Anushkamini/Leetcode/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Anushkamini/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anushkamini/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Tree
@@ -259,6 +260,7 @@ Happy Coding! 🚀
 | [0101-symmetric-tree](https://github.com/Anushkamini/Leetcode/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Anushkamini/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [2685-count-the-number-of-complete-components](https://github.com/Anushkamini/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/Anushkamini/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -272,6 +274,7 @@ Happy Coding! 🚀
 | [0100-same-tree](https://github.com/Anushkamini/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Anushkamini/Leetcode/tree/master/0101-symmetric-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/Anushkamini/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/Anushkamini/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Greedy
 |  |
 | ------- |
