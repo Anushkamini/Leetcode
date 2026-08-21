@@ -71,6 +71,7 @@ Happy Coding! 🚀
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Anushkamini/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Anushkamini/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Anushkamini/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Anushkamini/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Anushkamini/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Anushkamini/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Anushkamini/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -100,6 +101,7 @@ Happy Coding! 🚀
 | [1563-stone-game-v](https://github.com/Anushkamini/Leetcode/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anushkamini/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anushkamini/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Anushkamini/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Anushkamini/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Anushkamini/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Anushkamini/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -138,6 +140,7 @@ Happy Coding! 🚀
 | [0067-add-binary](https://github.com/Anushkamini/Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Anushkamini/Leetcode/tree/master/0136-single-number) |
 | [1386-cinema-seat-allocation](https://github.com/Anushkamini/Leetcode/tree/master/1386-cinema-seat-allocation) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Anushkamini/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Anushkamini/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Anushkamini/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anushkamini/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -190,6 +193,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Anushkamini/Leetcode/tree/master/0069-sqrtx) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Anushkamini/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Anushkamini/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Anushkamini/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Anushkamini/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -327,6 +331,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anushkamini/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Anushkamini/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Anushkamini/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Anushkamini/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Anushkamini/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -335,6 +340,7 @@ Happy Coding! 🚀
 ## Combinatorics
 |  |
 | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Anushkamini/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Anushkamini/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Anushkamini/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Monotonic Stack
