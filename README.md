@@ -66,6 +66,7 @@ Happy Coding! 🚀
 | [1406-stone-game-iii](https://github.com/Anushkamini/Leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anushkamini/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/Anushkamini/Leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Anushkamini/Leetcode/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anushkamini/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Anushkamini/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Anushkamini/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -99,6 +100,7 @@ Happy Coding! 🚀
 | [1140-stone-game-ii](https://github.com/Anushkamini/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Anushkamini/Leetcode/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/Anushkamini/Leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Anushkamini/Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Anushkamini/Leetcode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anushkamini/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anushkamini/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -211,6 +213,7 @@ Happy Coding! 🚀
 | [1301-number-of-paths-with-max-score](https://github.com/Anushkamini/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/Anushkamini/Leetcode/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/Anushkamini/Leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Anushkamini/Leetcode/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Anushkamini/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Anushkamini/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anushkamini/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -269,6 +272,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Anushkamini/Leetcode/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/Anushkamini/Leetcode/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Anushkamini/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Anushkamini/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Union-Find
@@ -372,17 +376,20 @@ Happy Coding! 🚀
 | [1140-stone-game-ii](https://github.com/Anushkamini/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Anushkamini/Leetcode/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/Anushkamini/Leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Anushkamini/Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Anushkamini/Leetcode/tree/master/1927-sum-game) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Anushkamini/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Anushkamini/Leetcode/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/Anushkamini/Leetcode/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Anushkamini/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Anushkamini/Leetcode/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/Anushkamini/Leetcode/tree/master/1872-stone-game-viii) |
 ## Backtracking
 |  |
 | ------- |
