@@ -106,6 +106,7 @@ Happy Coding! 🚀
 | [0171-excel-sheet-column-number](https://github.com/Anushkamini/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0486-predict-the-winner](https://github.com/Anushkamini/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anushkamini/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/Anushkamini/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Anushkamini/Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Anushkamini/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Anushkamini/Leetcode/tree/master/1406-stone-game-iii) |
@@ -457,4 +458,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/Anushkamini/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Anushkamini/Leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
