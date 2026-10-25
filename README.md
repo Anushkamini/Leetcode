@@ -59,6 +59,7 @@ Happy Coding! 🚀
 | [0835-image-overlap](https://github.com/Anushkamini/Leetcode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Anushkamini/Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Anushkamini/Leetcode/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/Anushkamini/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Anushkamini/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Anushkamini/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Anushkamini/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
@@ -320,6 +321,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/Anushkamini/Leetcode/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/Anushkamini/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Anushkamini/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Anushkamini/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Anushkamini/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -391,6 +393,7 @@ Happy Coding! 🚀
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Anushkamini/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [2685-count-the-number-of-complete-components](https://github.com/Anushkamini/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Anushkamini/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Anushkamini/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -416,6 +419,7 @@ Happy Coding! 🚀
 | [0100-same-tree](https://github.com/Anushkamini/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Anushkamini/Leetcode/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Anushkamini/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [1254-number-of-closed-islands](https://github.com/Anushkamini/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Anushkamini/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/Anushkamini/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Anushkamini/Leetcode/tree/master/3310-remove-methods-from-project) |
@@ -433,6 +437,7 @@ Happy Coding! 🚀
 | [0100-same-tree](https://github.com/Anushkamini/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Anushkamini/Leetcode/tree/master/0101-symmetric-tree) |
 | [1096-brace-expansion-ii](https://github.com/Anushkamini/Leetcode/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/Anushkamini/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [2685-count-the-number-of-complete-components](https://github.com/Anushkamini/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Anushkamini/Leetcode/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Anushkamini/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
